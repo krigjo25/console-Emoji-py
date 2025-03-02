@@ -1,5 +1,5 @@
 #   EmojiConverter
-An Command-line application to convert SMS smileys to unicode emojies.
+An Command-line application to convert Text smiley to Unicode emojis
 
 The application was implemented as a CS50 assignment.<br>
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
